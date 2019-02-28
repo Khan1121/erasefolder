@@ -6,8 +6,12 @@
     "react": "^16.8.3",
     "react-dom": "^16.8.3",
     "react-scripts": "2.1.5",
+    "react-unity-webgl" : "^7.0.9",
+    "superagent": "^4.0.0",
     "scatterjs-core": "^2.7.14",
-    "scatterjs-plugin-eosjs": "^1.5.1"
+    "scatterjs-plugin-eosjs": "^1.5.1",
+    "eosjs": "^16.0.9"
+
   },
   "scripts": {
     "start": "react-scripts start",
